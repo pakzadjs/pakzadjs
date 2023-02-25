@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>
+</div> -->
 
-### <div align="center">I'm Pakzad, a passionate frontend developer 👨‍💻</div> 
+### <div align="center">Hi, I'm Pakzad, a passionate frontend developer 👨‍💻</div> 
 
 <div align="center">
 <a href="https://linkedin.com/in/paakzad" target="_blank">
