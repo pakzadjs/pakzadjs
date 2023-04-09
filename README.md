@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div> -->
 
-### <div align="center">Hi, I'm Pakzad, a passionate frontend developer 👨‍💻</div> 
+### <div align="center">Hi, I'm Pakzad, a passionate frontend web developer 👨‍💻</div> 
 
 <div align="center">
 <a href="https://linkedin.com/in/paakzad" target="_blank">
@@ -14,10 +14,10 @@
 </div>  
 
 
-- 🌱 I’m currently learning Next.js and TypeScript
+- 🌱 I’m currently learning nodejs
   
 
-- ❓ Ask me about anything related to React.js  
+- ❓ Ask me about anything related to React.js / Next.js
 
 <!-- 
 ## Github Stats  
