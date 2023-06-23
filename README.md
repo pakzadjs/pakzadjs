@@ -14,7 +14,7 @@
 </div>  
 
 
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning Nextjs & nodejs
   
 
 - ❓ Ask me about anything related to React.js / Next.js
