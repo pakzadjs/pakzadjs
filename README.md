@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Nextjs & nodejs
   
 
-- ❓ Ask me about anything related to React.js / Next.js
+- ❓ Ask me about React.js / Next.js
 
 <!-- 
 ## Github Stats  
