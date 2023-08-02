@@ -37,7 +37,6 @@
 [![Redux][Redux.js]][Redux-url]
 [![React-query][React-query]][React-query-url]
 [![Tailwindcss][Tailwindcss]][Tailwind-url]
-[![Notion][Notion]][Notion-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -51,5 +50,3 @@
 [Tailwind-url]: https://tailwindcss.com/
 [React-query]: https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white
 [React-query-url]: https://tanstack.com/query/v3/
-[Notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
-[Notion-url]: https://www.notion.so/
