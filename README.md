@@ -1,45 +1,60 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div> -->
-
-### <div align="center">Hi, I'm Pakzad, a passionate frontend web developer 👨‍💻</div>
-
 <div align="center">
-<a href="https://linkedin.com/in/paakzad" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/pakzadjs" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
+# 👋 Hey, I'm **Pakzad**
+### ⚡ Web Developer — Frontend & Backend
+Building clean, modern, high‑performance web experiences.
 
-- 🌱 I’m currently learning Nextjs & nodejs
-  
+<br/>
 
-- ❓ Ask me about React.js / Next.js
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paakzad)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pakzadjs)
+[![Email](https://img.shields.io/badge/Email-DC4D3F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@pakzadjs.com)
 
-<!-- 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pakzadjs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
+## 🧠 About Me
+- 🌱 Currently learning: **deep focus, discipline, and high‑performance workflow**
+- ⚛️ Ask me about: **React**, **Next.js**, **Golang**, **Web Development**
+- 🔥 Interested in: **system design**, **scalable architectures**, **performance engineering**, **DX**
+- 🎮 Hobbies: **gaming**, **gym**, **coding**, **podcasts**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakzadjs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>   -->
+## 🛠 Tech Stack
 
-##
-[![Next][Next.js]][Next-url]
-[![React][React.js]][React-url]
-[![Redux][Redux.js]][Redux-url]
-[![React-query][React-query]][React-query-url]
-[![Tailwindcss][Tailwindcss]][Tailwind-url]
+### **Frontend**
+> React.js · Next.js · TailwindCSS · Redux · React Query
 
+### **Backend**
+> Golang · REST APIs · PostgreSQL · SQLite · Gin Framework
 
-<!-- MARKDOWN LINKS & IMAGES -->
+### **Tools & DevOps**
+> Git · GitHub · Vercel · Cloudflare · Trello · VS Code
+
+### **Vertraut mit**
+> Node.js · Nest.js · SQL · Agile Methoden
+
+---
+
+## 📊 GitHub Overview
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pakzadjs&show_icons=true&hide_title=true&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakzadjs&layout=compact&hide_border=true" width="48%"/>
+</div>
+
+---
+
+## 🚀 What I Build
+- ⚡ High‑speed, scalable frontends
+- 🧩 Reusable component systems
+- 🛠 Productivity & workflow tools
+
+---
+
+<!-- BADGE LINKS -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -49,4 +64,4 @@
 [Tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
 [React-query]: https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white
-[React-query-url]: https://tanstack.com/query/v3/
+[React-query-url]: https://tanstack.com/query/latest
