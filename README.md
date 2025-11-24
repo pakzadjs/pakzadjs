@@ -36,14 +36,6 @@ Building clean, modern, high‑performance web experiences.
 
 ---
 
-## 📊 GitHub Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakzadjs&show_icons=true&hide_title=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakzadjs&layout=compact&hide_border=true" width="48%"/>
-</div>
-
----
-
 ## 🚀 What I Build
 - ⚡ High‑speed, scalable frontends
 - 🧩 Reusable component systems
