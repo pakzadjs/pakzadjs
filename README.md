@@ -29,13 +29,10 @@ Building clean, modern, high‑performance web experiences.
 > React.js · Next.js · TailwindCSS · Redux · React Query
 
 ### **Backend**
-> Golang · REST APIs · PostgreSQL · SQLite · Gin Framework
+> Golang · REST APIs · PostgreSQL . Node.js · SQLite · Gin Framework
 
 ### **Tools & DevOps**
 > Git · GitHub · Vercel · Cloudflare · Trello · VS Code
-
-### **Vertraut mit**
-> Node.js · Nest.js · SQL · Agile Methoden
 
 ---
 
